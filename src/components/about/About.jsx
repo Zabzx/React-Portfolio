@@ -13,7 +13,9 @@ const About = () => {
 
       <div className="container about__container">
         <div className="about__me">
+        <div className="about__me-image">
           <img src={ME} alt="About Image" />
+        </div>
         </div>
 
         <div className="about__content">
@@ -36,8 +38,12 @@ const About = () => {
               <small>80+ Completed</small>
             </article>
           </div>
+
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id eius voluptate corporis corrupti tempora quia exercitationem incidunt cum sapiente odio voluptatibus obcaecati, ratione totam est error. Pariatur molestias culpa placeat!</p>
+
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
-      </div>
+      </div> 
     </section>
   )
 }
