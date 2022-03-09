@@ -16,7 +16,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>HTML</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -24,7 +24,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>CSS</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -32,7 +32,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>JavaScript</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -40,7 +40,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>Tailwind CSS</h4>
-              <small className="text-light">Intermediate</small>
+              <small className="text-dark">Intermediate</small>
               </div>
             </article>
 
@@ -48,7 +48,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>React JS</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -56,7 +56,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>Elixir</h4>
-              <small className="text-light">Beginner</small>
+              <small className="text-dark">Beginner</small>
               </div>
             </article>
 
@@ -64,7 +64,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>C#</h4>
-              <small className="text-light">Beginner</small>
+              <small className="text-dark">Beginner</small>
               </div>
             </article>
           </div>
@@ -79,7 +79,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>Git</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -87,7 +87,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>GitHub</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -95,7 +95,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>Netlify</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -103,7 +103,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>Figma</h4>
-              <small className="text-light">Intermediate</small>
+              <small className="text-dark">Intermediate</small>
               </div>
             </article>
 
@@ -111,7 +111,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>Adobe XD</h4>
-              <small className="text-light">Beginner</small>
+              <small className="text-dark">Beginner</small>
               </div>
             </article>
 
@@ -119,7 +119,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>NPM</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-dark">Experienced</small>
               </div>
             </article>
 
@@ -127,7 +127,7 @@ const Experience = () => {
               <BsPatchCheckFill/>
               <div>
               <h4>Ubuntu</h4>
-              <small className="text-light">Beginner</small>
+              <small className="text-dark">Beginner</small>
               </div>
             </article>
           </div>

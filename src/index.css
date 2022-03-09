@@ -13,10 +13,11 @@
 :root {
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
+    --color-primary: #9C2BFF;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
+    --color-black: #000;
 
     --transition: all 400ms ease;
 
@@ -35,7 +36,7 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: var(--color-bg);
+    background: var(--color-black);
     color: var(--color-white);
     line-height: 1.7;
 }
@@ -66,10 +67,6 @@ section > h2, section > h5 {
 section > h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
-}
-
-.text-light {
-    color: var(--color-light)
 }
 
 a {
