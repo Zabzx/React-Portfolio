@@ -6,7 +6,7 @@ import {BsGithub} from 'react-icons/bs'
 
 const Footer = () => {
   return (
-    <footer>
+    <footer id="footer">
       <a href="" className="footer__logo">Ziabeher Phillips</a>
 
       <ul className="permalinks">
