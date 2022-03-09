@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id eius voluptate corporis corrupti tempora quia exercitationem incidunt cum sapiente odio voluptatibus obcaecati, ratione totam est error. Pariatur molestias culpa placeat!</p>
+          <p>I'm a Front End Web Developer based in the Caribbean. I value high quality and meaningful development. My goal is to be part of projects that will satisfy the user, that will help me grow as a developer and to satisfy my itch of overcoming challenging development problems. I love to learn, seriously, I spent over a year self learning programming and built numerous projects on my own. Learning UI / UX development, best practices and debugging. There is nothing more satisfying than overcoming a challenging problem and feeling the instant growth you gain from it. Being a developer is me being in my comfort zone and I wouldn't want it any other way. By the end of 2022, I will be a full stack developer and aiming to improve my tech stack even further, I'm just getting started :)</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
