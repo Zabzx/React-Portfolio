@@ -33,20 +33,6 @@ const portfolioItems = [
     title: 'Live Date Countdown',
     github: 'https://github.com/Zabzx/Live-Countdown',
     link: 'https://mytourni.netlify.app/'
-  },
-  {
-    id: 5,
-    image: MYTOURNI,
-    title: 'My Tourni',
-    github: 'https://github.com/Zabzx/tourni',
-    link: 'https://livedatecountdown.netlify.app/'
-  },
-  {
-    id: 6,
-    image: MYTOURNI,
-    title: 'My Tourni',
-    github: 'https://github.com/Zabzx/tourni',
-    link: 'https://mytourni.netlify.app/'
   }
 ]
 
@@ -66,8 +52,8 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-              <a href={github} className="btn" target="_blank">GitHub</a>
-              <a href={link} className="btn btn-primary" target="_blank">Link to App</a>
+              <a href={github} className="btn-pf" target="_blank">GitHub</a>
+              <a href={link} className="btn-pf2" target="_blank">Link to App</a>
               </div>
               </article>
             )
