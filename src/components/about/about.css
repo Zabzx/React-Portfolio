@@ -20,14 +20,14 @@
 }
 
 .about__me-image:hover {
-    transform: rotate(0deg)
+    transform: rotate(0deg);
 }
 
 .about__cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
-    color: var(--color-primary)
+    color: var(--color-primary);
 }
 
 .about__card {
@@ -36,11 +36,12 @@
     border: 1px solid transparent;
     padding: 2rem;
     text-align: center;
+    transition: var(--transition);
 }
 
 .about__card:hover {
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: white;
     cursor: default;
     color: var(--color-light);
 }
