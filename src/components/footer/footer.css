@@ -16,6 +16,9 @@ footer a {
     margin-bottom: 2rem;
     display: inline-block;
 }
+.footer__logo:hover {
+    color: var(--color-primary)
+}
 
 .permalinks {
     display: flex;
@@ -23,6 +26,10 @@ footer a {
     justify-content: center;
     gap: 2rem;
     margin: 0 auto 3rem;
+}
+
+.permalinks a:hover {
+    color: var(--color-primary);
 }
 
 .footer__socials {
