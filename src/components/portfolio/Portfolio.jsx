@@ -7,13 +7,6 @@ import DATE from '../../assets/date_thumbnail.jpg'
 
 const portfolioItems = [
   {
-    id: 1,
-    image: MYTOURNI,
-    title: 'MyTourni',
-    github: 'https://github.com/Zabzx/tourni',
-    link: 'https://mytourni.netlify.app/'
-  },
-  {
     id: 2,
     image: FLOWW,
     title: 'Floww',
@@ -26,6 +19,13 @@ const portfolioItems = [
     title: 'CloudTech',
     github: 'https://github.com/Zabzx/Static',
     link: 'https://cloudtechh.netlify.app/'
+  },
+  {
+    id: 1,
+    image: MYTOURNI,
+    title: 'MyTourni',
+    github: 'https://github.com/Zabzx/tourni',
+    link: 'https://mytourni.netlify.app/'
   },
   {
     id: 4,
