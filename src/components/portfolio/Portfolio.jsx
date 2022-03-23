@@ -25,7 +25,7 @@ const portfolioItems = [
     image: MYTOURNI,
     title: 'MyTourni',
     github: 'https://github.com/Zabzx/tourni',
-    link: 'https://mytourni.netlify.app/'
+    link: 'http://mytourni.com/'
   },
   {
     id: 4,
