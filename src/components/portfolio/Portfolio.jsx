@@ -3,6 +3,7 @@ import './portfolio.css'
 import MYTOURNI from '../../assets/mytourni_thumbnail.jpg'
 import FLOWW from '../../assets/flow_thumbnail.jpg'
 import CLOUDTECH from '../../assets/cloudtech-thumbnail.jpg'
+import SPICE from '../../assets/spice_thumbnail.jpg'
 import DATE from '../../assets/date_thumbnail.jpg'
 
 const portfolioItems = [
@@ -26,6 +27,13 @@ const portfolioItems = [
     title: 'MyTourni',
     github: 'https://github.com/Zabzx/tourni',
     link: 'http://mytourni.com/'
+  },
+  {
+    id: 5,
+    image: SPICE,
+    title: 'SpiceUp!',
+    github: 'https://github.com/Zabzx/spiceUp',
+    link: 'https://spiced-up.netlify.app/'
   },
   {
     id: 4,
