@@ -40,7 +40,7 @@ const portfolioItems = [
     image: DATE,
     title: 'Live Date Countdown',
     github: 'https://github.com/Zabzx/Live-Countdown',
-    link: 'https://mytourni.netlify.app/'
+    link: 'https://livedatecountdown.netlify.app/'
   }
 ]
 
